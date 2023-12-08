@@ -88,7 +88,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <?php else: ?>
             
             <div class="flex-container d-flex justify-content-center flex-row">
-                <p><a href="login.php" class="btn btn-primary">Log in</a></p>
+                <p><a href="index.php" class="btn btn-primary">Log in</a></p>
                 <p> or </p>
                 <p><a href="../register.html" class="btn btn-secondary">Sign up</a></p>
             </div>

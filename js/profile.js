@@ -31,7 +31,7 @@ $(document).ready(function () {
                 } else {
                     const loginOptions = `
                         <div class="d-flex justify-content-center mt-3">
-                            <a href="login.html" class="btn btn-primary me-2">Log in</a>
+                            <a href="index.html" class="btn btn-primary me-2">Log in</a>
                             <p class="align-self-center"> or </p>
                             <a href="register.html" class="btn btn-secondary ms-2">Sign up</a>
                         </div>
